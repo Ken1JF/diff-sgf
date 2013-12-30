@@ -1,0 +1,6 @@
+echo "Comparing T1_orig.sgf  T1.sgf"
+/usr/local/bin/diffsgf -q T1_orig.sgf  T1.sgf
+echo "Comparing Fuseki.sgf Fuseki2.sgf"
+/usr/local/bin/diffsgf -badOption Fuseki.sgf Fuseki2.sgf
+echo "Comparing Fuseki.sgf Fuseki2.sgf ignoring labels"
+/usr/local/bin/diffsgf -l -q Fuseki.sgf Fuseki2.sgf

@@ -1,0 +1,16 @@
+Comparing T1_orig.sgf  T1.sgf
+Comparing Fuseki.sgf Fuseki2.sgf
+Differences in Fuseki.sgf and Fuseki2.sgf
+L:( differ near 65 and 65
+B:; differ near 66 and 66
+[:B differ near 67 and 67
+q:[ differ near 68 and 68
+c:p differ near 69 and 69
+::d differ near 70 and 70
+C:] differ near 71 and 71
+]:( differ near 72 and 72
+[:; differ near 73 and 73
+p:W differ near 74 and 74
+d:[ differ near 75 and 75
+More than 10 differences, in first 75 and 75 non-whitespace characters.
+Comparing Fuseki.sgf Fuseki2.sgf ignoring labels
